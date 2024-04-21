@@ -103,7 +103,7 @@
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=nileshcf&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nileshcf/itasks)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=nileshcf&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nileshcf/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=nileshcf&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nileshcf/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=nileshcf&repo=nileshcf&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nileshcf/nileshcf)
+[![Nilesh Verma's Readme](https://github-readme-stats.vercel.app/api/pin/?username=nileshcf&repo=nileshcf&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nileshcf/nileshcf)
 
 <p align="left">
   <a href="https://github.com/nileshcf?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -126,7 +126,7 @@
 </p>
 
 <a> 
-    <a href="https://github.com/nileshcf"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nileshcf&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/nileshcf"><img alt="Nilesh Verma's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nileshcf&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/nileshcf"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nileshcf&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
